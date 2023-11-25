@@ -1,0 +1,11 @@
+package com.springmvc.model;
+
+public class Employee {
+	
+	private String name; 
+	private String email; 
+	private String username; 
+	private String email; 
+	
+	
+}

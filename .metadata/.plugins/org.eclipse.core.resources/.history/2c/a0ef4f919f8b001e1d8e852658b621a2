@@ -1,0 +1,6 @@
+package springmvc.controller;
+
+@Controller
+public class HomeController {
+
+}
